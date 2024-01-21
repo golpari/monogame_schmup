@@ -4,12 +4,32 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/chew.wav</File>
+    <File>C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/game_over.wav</File>
+    <File>C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/gameOver.png</File>
     <File>C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/leaves.jpg</File>
+    <File>C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/mission_complete.wav</File>
+    <File>C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/mission_start.wav</File>
     <File>C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/moth.png</File>
+    <File>C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/ouch.wav</File>
     <File>C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/Sky Game Menu.mp3</File>
+    <File>C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/spider_silhouette.png</File>
     <File>C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/spider.png</File>
+    <File>C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/spiderweb2.png</File>
+    <File>C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/winScreen.png</File>
+    <File>C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/zap.wav</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

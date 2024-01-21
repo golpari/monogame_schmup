@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VvU+j7XpphUDmOoByshofo0v9u8B9ls7mHMCPyRRK951fmJrjGrIcIHkYIVAUlNDkCXJBz5ACJlf2BTHWCZsxA==",
+  "dgSpecHash": "PIWx+rS5B+1N6rJugMQLVYGt08zdlnQG0oP92C1zttuKf8JXdpwTjfBjqtgh2PeLtbSuv0rTQ7nw6l2aigHaIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Golpa\\Desktop\\EECS498-007\\test\\monogame_schmup.csproj",
+  "projectFilePath": "C:\\Users\\Golpa\\Desktop\\EECS498-007\\monogame_schmup\\monogame_schmup.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Golpa\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
     "C:\\Users\\Golpa\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"

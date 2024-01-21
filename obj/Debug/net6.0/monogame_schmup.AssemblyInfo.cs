@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("monogame_schmup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81e810c923793c435035b6d379deb2daade68356")]
 [assembly: System.Reflection.AssemblyProductAttribute("monogame_schmup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("monogame_schmup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

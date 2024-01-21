@@ -28,3 +28,15 @@ C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\obj\Debug\net6.0\monogame_sch
 C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\obj\Debug\net6.0\ref\monogame_schmup.dll
 C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\Sky Game Menu.ogg
 C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\Sky Game Menu.xnb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\obj\Debug\net6.0\monogame_schmup.sourcelink.json
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\web.xnb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\spiderweb2.xnb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\spider_silhouette.xnb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\gameOver.xnb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\winScreen.xnb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\chew.xnb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\game_over.xnb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\mission_complete.xnb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\mission_start.xnb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\ouch.xnb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\zap.xnb
