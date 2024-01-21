@@ -1,0 +1,30 @@
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\leaves.xnb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\moth.xnb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\spider.xnb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\monogame_schmup.exe
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\monogame_schmup.deps.json
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\monogame_schmup.runtimeconfig.json
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\monogame_schmup.dll
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\monogame_schmup.pdb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\obj\Debug\net6.0\monogame_schmup.csproj.AssemblyReference.cache
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\obj\Debug\net6.0\monogame_schmup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\obj\Debug\net6.0\monogame_schmup.AssemblyInfoInputs.cache
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\obj\Debug\net6.0\monogame_schmup.AssemblyInfo.cs
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\obj\Debug\net6.0\monogame_schmup.csproj.CoreCompileInputs.cache
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\obj\Debug\net6.0\monogame_schmup.csproj.CopyComplete
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\obj\Debug\net6.0\monogame_schmup.dll
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\obj\Debug\net6.0\refint\monogame_schmup.dll
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\obj\Debug\net6.0\monogame_schmup.pdb
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\obj\Debug\net6.0\monogame_schmup.genruntimeconfig.cache
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\obj\Debug\net6.0\ref\monogame_schmup.dll
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\Sky Game Menu.ogg
+C:\Users\Golpa\Desktop\EECS498-007\monogame_schmup\bin\Debug\net6.0\Content\Sky Game Menu.xnb

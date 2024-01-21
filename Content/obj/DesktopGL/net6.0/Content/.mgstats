@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/leaves.jpg","C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/bin/DesktopGL/Content/leaves.xnb","TextureProcessor","Texture2DContent",119328,3686485,0.5292868
+"C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/moth.png","C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/bin/DesktopGL/Content/moth.xnb","TextureProcessor","Texture2DContent",7811,90085,0.3155716
+"C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/Sky Game Menu.mp3","C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/bin/DesktopGL/Content/Sky Game Menu.xnb","SoundEffectProcessor","SoundEffectContent",2970931,22118693,1.448292
+"C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/spider.png","C:/Users/Golpa/Desktop/EECS498-007/monogame_schmup/Content/bin/DesktopGL/Content/spider.xnb","TextureProcessor","Texture2DContent",7019,120085,0.252256
